@@ -28,4 +28,5 @@ key: page-about
 
 # 소개
 수학 컴퓨터공학 전공하고 있는 학생입니다.  
-BOJ handle : jasper
+BOJ handle : jasper  
+코딩 잘하고 싶네요ㅎ
